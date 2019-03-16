@@ -1,2 +1,3 @@
 # Hello-World
 Where My Webdev, programming, coding journey thing begins...
+Sup yaw? Yes I'm an ol' hick up here in these appalachian mountains, got this internet now, not just dial up, the good kind!..fiberoptic they call it. Anyway I've been selling on Ebay for a couple months, got interested in web development from watching  joe at coding phase and Stephen Mischook on youtube. Thanks to those guys,I'm going to see what kind of projects I can figure out and build on here..staytuned
