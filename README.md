@@ -1,3 +1,6 @@
 # Hello-World
 Where My Webdev, programming, coding journey thing begins...
 Sup yaw? Yes I'm an ol' hick up here in these appalachian mountains, got this internet now, not just dial up, the good kind!..fiberoptic they call it. Anyway I've been selling on Ebay for a couple months, got interested in web development from watching  joe at coding phase and Stephen Mischook on youtube. Thanks to those guys,I'm going to see what kind of projects I can figure out and build on here..staytuned
+
+Update 9:18 3/16/2019 Set up visual studio code with Github extension, to do this I created an API Token named Visual Studio, ALso setup bash ubuntu, terminal in VSC. Now planning to learn about GULP, I'm sure I'll need at some point, if not now, learn and install if/when needed. Also setup GitPage. I also installed Git terminal on my comp, not sure if I need with VSC Git Extension. Running Bash Terminal on windows is a bit confusing, hope to get a Mac soon, from what I understand terminal is easier to use. Working with limited resources ATM.  
+Note to self: WINPTY command...
